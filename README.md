@@ -61,14 +61,14 @@ Atualmnete trabalho como Motociclista em uma empresa a 10 anos, porém quero mig
     align="left" 
     alt="Laravel" 
     title="Laravel"
-    width="40px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"           
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Python" 
+    title="Python"
     width="40px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"           
