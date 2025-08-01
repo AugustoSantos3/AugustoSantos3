@@ -91,5 +91,5 @@ Atualmnete trabalho como Motociclista em uma empresa a 10 anos, porém quero mig
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSantos3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AugustoSantos3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
